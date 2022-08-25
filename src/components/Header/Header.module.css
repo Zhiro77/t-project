@@ -1,0 +1,21 @@
+.header {
+    width: 100%;
+    height: 80px;
+    background-color: #e8e8e8;
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    width: 400px;
+}
+
+.navbar a {
+    color: teal
+}
+
+.navbar a:hover {
+    color: rgb(6, 63, 60)
+}
